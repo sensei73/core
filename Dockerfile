@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM resin/rpi-raspbian:latest
 
 MAINTAINER info@jeedom.com
 
